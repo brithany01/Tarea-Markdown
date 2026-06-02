@@ -310,5 +310,5 @@ La documentación fue organizada en diferentes secciones para facilitar la compr
 
 ## Enlace del proyecto
 
-(Pegar aquí el enlace del repositorio cuando sea publicado en GitHub)
+[Repositorio de la tarea](https://github.com/brithany01/Tarea-Markdown)
 
